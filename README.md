@@ -67,14 +67,7 @@ I enjoy building scalable systems that solve real-world problems using responsib
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nebaofficial&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebaofficial&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌍 Professional Development
 
